@@ -33,3 +33,5 @@ lib/libsecril-client.so
 vendor/lib/libconfigdb.so
 vendor/lib/libril-qcril-hook-oem.so
 
+#NFC
+vendor/firmware/sec_s3fnrn3_firmware.bin
