@@ -1,1 +1,2 @@
-# Nothing
+#NFC Firmware
+vendor/firmware/sec_s3fnrn3_firmware.bin
